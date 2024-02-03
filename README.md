@@ -46,4 +46,4 @@ For help with AutoMails, refer to our detailed [Help Guide](https://gentleremind
 
 ## License
 
-AutoMails is provided under [MIT License](LICENSE). Feel free to use and modify the tool for personal or commercial purposes.
+AutoMails is provided  "as is" without any explicit license. all rights are reserved by the creator. Still feel free to use and modify the tool for personal or commercial purposes.
